@@ -1,0 +1,6 @@
+p parqueA 10 0.10 0.20 10.00
+e parqueA AA-00-AA 03-04-2024 10:00
+s parqueA AA-00-AA 03-04-2024 10:20
+u AA-00-AA
+u AA-AA-AA
+q
